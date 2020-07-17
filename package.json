@@ -1,6 +1,6 @@
 {
   "name": "jspdf",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "homepage": "https://github.com/mrrio/jspdf",
   "description": "PDF Document creation from JavaScript",
   "main": "dist/jspdf.min.js",
@@ -34,7 +34,7 @@
     "canvg": "1.5.3",
     "dompurify": "^2.0.12",
     "es6-promise": "^4.2.8",
-    "file-saver": "2.0.1",
+    "file-saver": "2.0.2",
     "html2canvas": "^1.0.0-rc.5",
     "omggif": "1.0.9",
     "stackblur-canvas": "2.2.0"
